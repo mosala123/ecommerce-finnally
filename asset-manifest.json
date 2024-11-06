@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce-finnally/static/css/main.7484d17d.css",
+    "main.js": "/ecommerce-finnally/static/js/main.8d7590b2.js",
+    "static/media/istockphoto-1217805751-612x612.jpg": "/ecommerce-finnally/static/media/istockphoto-1217805751-612x612.4db7971a4d8e1f6aa94f.jpg",
+    "static/media/istockphoto-597245404-612x612.webp": "/ecommerce-finnally/static/media/istockphoto-597245404-612x612.e8ada3768ae2bc8d9b97.webp",
+    "static/media/istockphoto-1546442230-612x612.webp": "/ecommerce-finnally/static/media/istockphoto-1546442230-612x612.2a5c6a6331407e140bd1.webp",
+    "index.html": "/ecommerce-finnally/index.html",
+    "main.7484d17d.css.map": "/ecommerce-finnally/static/css/main.7484d17d.css.map",
+    "main.8d7590b2.js.map": "/ecommerce-finnally/static/js/main.8d7590b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7484d17d.css",
+    "static/js/main.8d7590b2.js"
+  ]
+}
